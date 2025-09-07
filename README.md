@@ -1,7 +1,7 @@
 # Codeginner
 
 *Codeginner* is an interactive learning platform built with Django.  
-It provides *animated Python lessons, a **dashboard* to track learning progress, and a built-in *code editor* for hands-on practice. The platform is designed to make coding more engaging and beginner-friendly.
+It provides *animated Python lessons*, a *dashboard* to track learning progress, and a built-in *code editor* for hands-on practice. The platform is designed to make coding more engaging and beginner-friendly.
 
 ---
 
